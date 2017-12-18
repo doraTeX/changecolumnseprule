@@ -11,3 +11,6 @@
 ## 注意
 
 `multicol` パッケージの段組の仕切り線を変更したい場合は，`changecolumnseprule` パッケージより前に `multicol` パッケージを `\usepackage` しておいてください。
+
+
+詳細は [TeX & LaTeX Advent Calendar 2017](https://adventar.org/calendars/2229) の[19日目の記事](http://doratex.hatenablog.jp/entry/20171219/1513609414)を参照。
